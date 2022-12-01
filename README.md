@@ -5,7 +5,7 @@ Creates 3D graphs of data gathered by exposing a raditation detector to varrying
 
 How to use:
 
-To Print all of the graphs, simply run plotFinalGraphs() in the terminal.
+To print all of the graphs, simply run plotFinalGraphs() in the terminal.
 
 
 
